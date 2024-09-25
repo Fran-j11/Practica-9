@@ -2,3 +2,4 @@
 Cambio en rama1 y en rama2
 >>>>>>> rama2
 Primera característica
+Segunda característica
